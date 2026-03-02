@@ -6,7 +6,9 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "numpy>=2.4.2",
+    "optuna>=4.7.0",
     "pandas>=3.0.1",
+    "plotly>=6.5.2",
     "plt>=0.2.0",
     "scikit-learn>=1.8.0",
 ]
